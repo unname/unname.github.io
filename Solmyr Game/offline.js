@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1581029944,
+	"version": 1581162495,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -75,6 +75,8 @@
 		"images/menu_sprites-sheet0.png",
 		"images/menu_sprites-sheet1.png",
 		"images/game_logo-sheet0.png",
+		"images/loader_mask-sheet0.png",
+		"images/loader_bar-sheet0.png",
 		"media/_buildtwn.m4a",
 		"media/_buildtwn.ogg",
 		"media/_chainlte.m4a",
@@ -117,7 +119,6 @@
 		"media/dd4.ogg",
 		"media/ui_click_1.m4a",
 		"media/ui_click_1.ogg",
-		"media/ui_select_1.m4a",
 		"media/ui_select_1.ogg",
 		"media/50x50.m4a",
 		"media/50x50.ogg",
