@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1581535409,
+	"version": 1581788227,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -74,11 +74,15 @@
 		"images/transparent_back-sheet0.png",
 		"images/menu_sprites-sheet0.png",
 		"images/menu_sprites-sheet1.png",
+		"images/menu_sprites-sheet2.png",
 		"images/game_logo-sheet0.png",
 		"images/loader_mask-sheet0.png",
 		"images/loader_mask-sheet1.png",
 		"images/loader_bar-sheet0.png",
 		"images/text_sprite-sheet0.png",
+		"images/score_table-sheet0.png",
+		"images/creators_back-sheet0.png",
+		"images/creature-sheet0.png",
 		"media/_buildtwn.m4a",
 		"media/_buildtwn.ogg",
 		"media/_chainlte.m4a",
